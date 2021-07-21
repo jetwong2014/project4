@@ -18,6 +18,7 @@ a:hover {
     cursor: pointer;
 }
 
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -824,11 +825,11 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.jpg");
+    background-image: url("img/atlanta-made-sign.jpg");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.jpg");
+    background-image: url("img/atlanta-made-sign-orange.jpg");
 }
 
 @media (max-width: 1024px) {
