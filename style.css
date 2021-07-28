@@ -285,7 +285,7 @@ a:hover {
 }
 
 #bloc-2-services p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .navbar {
@@ -343,8 +343,8 @@ a:hover {
     border: 0px;
 }
 
-.navbar-toggle:hover {
-    background: transparent!important;
+.navbar-toggle:hover {  
+    background: transparent!important;      
 }
 
 .navbar-toggle .icon-bar {
@@ -398,6 +398,7 @@ a:hover {
         margin-right: 0px;
         margin-top: 20px;
     }
+    
     .nav-center.mini-nav .navbar-toggle {
         float: none;
         margin: 10px auto 0;
@@ -678,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -708,6 +709,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    font-weight: bolder;
 }
 
 h3 {
@@ -804,11 +806,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #CD4B0E!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #94360A!important;
 }
 
 .icon-dark-slate-blue {
